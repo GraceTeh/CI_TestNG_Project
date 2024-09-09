@@ -2,7 +2,7 @@ job(&#39;Python-Build-Job&#39;) {
 description(&#39;A Jenkins job to build Python projects.&#39;)
 // Source Code Management
 scm {
-git(&#39;https://github.com/GraceTeh/CI1.git&#39;)
+git(&#39;https://github.com/GraceTeh/CI_TestNG_Project.git&#39;)
 }
 // Build Triggers
 triggers {
